@@ -1,0 +1,16 @@
+[
+{
+  "modid": "towncraft",
+  "name": "Town Craft",
+  "description": "A Mod that will create a town with questing",
+  "version": "1.7.10-1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authors": [""],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
